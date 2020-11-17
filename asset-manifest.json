@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/groupfinder/static/css/main.432ecb4c.chunk.css",
+    "main.js": "/groupfinder/static/js/main.24ccfabe.chunk.js",
+    "main.js.map": "/groupfinder/static/js/main.24ccfabe.chunk.js.map",
+    "runtime-main.js": "/groupfinder/static/js/runtime-main.97e9a94e.js",
+    "runtime-main.js.map": "/groupfinder/static/js/runtime-main.97e9a94e.js.map",
+    "static/css/2.a10ec74d.chunk.css": "/groupfinder/static/css/2.a10ec74d.chunk.css",
+    "static/js/2.f4fc1945.chunk.js": "/groupfinder/static/js/2.f4fc1945.chunk.js",
+    "static/js/2.f4fc1945.chunk.js.map": "/groupfinder/static/js/2.f4fc1945.chunk.js.map",
+    "static/js/3.01f97f9c.chunk.js": "/groupfinder/static/js/3.01f97f9c.chunk.js",
+    "static/js/3.01f97f9c.chunk.js.map": "/groupfinder/static/js/3.01f97f9c.chunk.js.map",
+    "index.html": "/groupfinder/index.html",
+    "static/css/2.a10ec74d.chunk.css.map": "/groupfinder/static/css/2.a10ec74d.chunk.css.map",
+    "static/css/main.432ecb4c.chunk.css.map": "/groupfinder/static/css/main.432ecb4c.chunk.css.map",
+    "static/js/2.f4fc1945.chunk.js.LICENSE.txt": "/groupfinder/static/js/2.f4fc1945.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97e9a94e.js",
+    "static/css/2.a10ec74d.chunk.css",
+    "static/js/2.f4fc1945.chunk.js",
+    "static/css/main.432ecb4c.chunk.css",
+    "static/js/main.24ccfabe.chunk.js"
+  ]
+}
