@@ -1,0 +1,45 @@
+header.header {
+  align-items: center;
+  display: flex;
+  height: 4rem;
+  background-color: #333;
+  color: #fff;
+}
+
+.section-logo {
+  flex: 1 1 auto;
+  font-size: 2rem;
+  text-transform: uppercase;
+  padding: 0 3rem;
+}
+
+.section-logo>a {
+  color: #fff;
+}
+
+.section-user {
+  width: 10rem;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.section-user>a {
+  color: #fff;
+}
+
+/* add antd styles */
+
+@import '~antd/dist/antd.css';
+.ant-form {
+  width: 70rem;
+  margin: 3rem auto 0;
+}
+
+.ant-advanced-search-form.ant-form, .ant-modal .ant-form {
+  width: auto;
+  margin: 1rem 1rem;
+}
+
+.btn-back {
+  margin-left: 1rem;
+}
